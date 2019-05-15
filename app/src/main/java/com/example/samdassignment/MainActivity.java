@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void handleMessage(Message msg) {
             TextView labelText = (TextView) findViewById(R.id.labelText);
-            labelText.setText("Hello World! 2nd Commit");
+            labelText.setText("Hello World! this is 3rd Commit");
         }
     };
 
